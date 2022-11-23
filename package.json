@@ -28,6 +28,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
+    "serve-storybook": "serve storybook-static",
     "init-msw": "msw init public/"
   },
   "eslintConfig": {
